@@ -8,6 +8,6 @@
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "vuepress": "^1.8.2"
   }
 }
