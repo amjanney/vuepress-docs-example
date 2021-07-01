@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 文档
+heroText: 测试文档
 tagline:  开发文档,持续更新中....
 actionText: 快速开始 →
 actionLink: /guide/
